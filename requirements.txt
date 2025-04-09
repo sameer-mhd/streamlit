@@ -1,0 +1,7 @@
+streamlit
+agno
+google-genai
+google-cloud-bigquery
+pandas
+pandas-gbq
+sqlalchemy
